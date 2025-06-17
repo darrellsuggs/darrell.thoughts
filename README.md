@@ -1,1 +1,1 @@
-# darrell-thoughts.github.io
+# darrell.thoughts
