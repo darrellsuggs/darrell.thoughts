@@ -5,7 +5,7 @@ title: Home
 
 # 🧭 darrell.thoughts
 
-Welcome to my public journal of ideas, logs, and explorations.
+Welcome to my one public journal of ideas, logs, and explorations.
 
 ---
 
