@@ -1,9 +1,11 @@
 title: darrell.thoughts
-description: A public journal of ideas, logs, and explorations
+description: A new public journal of my ideas, logs, and explorations
 name: Darrell Suggs
 email: your-email@example.com
 url: "https://darrellsuggs.github.io"
 baseurl: "/darrell.thoughts"
+
+
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
@@ -32,13 +34,3 @@ defaults:
       comments: false
       share: true
       related: true
-
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Tech"
-    url: /categories/tech/
-  - title: "Health"
-    url: /categories/health/
-  - title: "Nature"
-    url: /categories/nature/
