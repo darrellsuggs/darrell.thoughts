@@ -1,3 +1,3 @@
-# darrell.thoughts
+# darrell-thoughts-mm
 
-This is the source code for my personal blog powered by GitHub Pages and Jekyll.
+Blog powered by Minimal Mistakes and GitHub Pages.

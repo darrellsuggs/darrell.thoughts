@@ -1,4 +1,34 @@
 title: darrell.thoughts
 description: A public journal of thoughts and discoveries
-author: Darrell Suggs
-theme: jekyll-theme-minimal
+name: Darrell Suggs
+email: your-email@example.com
+url: "https://your-username.github.io"
+baseurl: ""
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+markdown: kramdown
+highlighter: rouge
+minimal_mistakes_skin: default
+
+author:
+  name: "Darrell Suggs"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Engineer, reader, thinker."
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
