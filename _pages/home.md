@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome"
+title: ""
 permalink: /
 author_profile: true
 sidebar:
