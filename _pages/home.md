@@ -1,9 +1,11 @@
 ---
-layout: splash
+layout: single
 title: "Welcome"
 permalink: /
 author_profile: true
+sidebar:
+  nav: "main"
 ---
 
-Welcome to my categorized public blog. Explore recent thoughts by category in the sidebar, or browse the full feed below.
+Welcome to my categorized public blog. Use the navigation sidebar to explore by topic.
 

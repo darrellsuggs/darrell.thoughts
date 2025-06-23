@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Tech"
+    url: /categories/tech/
+  - title: "Health"
+    url: /categories/health/
+  - title: "Nature"
+    url: /categories/nature/
+
