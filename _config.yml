@@ -1,9 +1,9 @@
 title: darrell.thoughts
-description: A public journal of thoughts and discoveries
+description: A public journal of ideas, logs, and explorations
 name: Darrell Suggs
 email: your-email@example.com
 url: "https://your-username.github.io"
-baseurl: ""
+baseurl: ""  # Keep this empty for GitHub Pages user site
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
