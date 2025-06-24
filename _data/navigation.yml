@@ -9,4 +9,6 @@ main:
     url: /categories/health/
   - title: "Nature"
     url: /categories/nature/
+  - title: "thinking-with-experience"
+    url: /categories/thinking-with-experience
 
