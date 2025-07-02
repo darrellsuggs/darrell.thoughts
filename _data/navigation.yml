@@ -3,8 +3,8 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Tech"
-    url: /categories/tech/
+  - title: "nerd-brain"
+    url: /categories/nerd-brain/
   - title: "Health"
     url: /categories/health/
   - title: "Nature"
