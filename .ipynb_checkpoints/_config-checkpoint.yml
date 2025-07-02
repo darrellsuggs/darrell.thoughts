@@ -1,11 +1,9 @@
 title: darrell.thoughts
-description: A new public journal of my ideas, logs, and explorations
+description: A public journal of ideas, logs, and explorations
 name: Darrell Suggs
 email: your-email@example.com
 url: "https://darrellsuggs.github.io"
 baseurl: "/darrell.thoughts"
-
-
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 
@@ -34,3 +32,13 @@ defaults:
       comments: false
       share: true
       related: true
+
+nav:
+  - title: "thinking-with-experience"
+    url: /categories/thinking-with-experience/
+  - title: "book-thoughts"
+    url: /categories/book-thoughts/
+  - title: "thinking-with-ai"
+    url: /categories/thinking-with-ai/
+  - title: "dad-life"
+    url: /categories/dad-life/

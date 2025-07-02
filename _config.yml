@@ -34,11 +34,11 @@ defaults:
       related: true
 
 nav:
-  - title: "About"
-    url: /about/
-  - title: "Tech"
-    url: /categories/tech/
-  - title: "Health"
-    url: /categories/health/
-  - title: "Nature"
-    url: /categories/nature/
+  - title: "thinking-with-experience"
+    url: /categories/thinking-with-experience/
+  - title: "book-thoughts"
+    url: /categories/book-thoughts/
+  - title: "thinking-with-ai"
+    url: /categories/thinking-with-ai/
+  - title: "dad-life"
+    url: /categories/dad-life/
