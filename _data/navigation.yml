@@ -3,13 +3,13 @@ main:
     url: /
   - title: "thinking.with.experience"
     url: /about/
-  - title: "life-happens"
+  - title: "life.happens"
     url: /categories/life-happens/
-  - title: "nerd-brain"
+  - title: "nerd.brain"
     url: /categories/nerd-brain/
-  - title: "working-with-ai"
+  - title: "working.with.ai"
     url: /categories/working-with-ai/
-  - title: "dad-forever"
+  - title: "dad.forever"
     url: /categories/dad-forever/
   - title: "married.observations
     url: /categories/marriend-observations/
