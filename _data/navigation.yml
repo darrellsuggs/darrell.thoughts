@@ -17,6 +17,8 @@ main:
     url: /categories/written-thoughts/
   - title: "reading.insights"
     url: /categories/reading-insights/
+  - title: "travel.logs"
+    url: /categories/reading-insights/
   - title: "elevated.perspectives"
     url: /categories/elevated-perspectives/
   - title: "other.thinkers"
