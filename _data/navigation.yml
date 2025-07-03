@@ -7,14 +7,18 @@ main:
     url: /categories/life-happens/
   - title: "nerd.brain"
     url: /categories/nerd-brain/
-  - title: "embracing.ai"
-    url: /categories/embracing-ai/
   - title: "dad.forever"
     url: /categories/dad-forever/
   - title: "married.observations"
     url: /categories/marriend-observations/
+  - title: "embracing.ai"
+    url: /categories/embracing-ai/
   - title: "career.chaos"
     url: /categories/career-chaos/
+  - title: "written.thoughts"
+    url: /categories/written-thoughts/
+  - title: "reading.insights"
+    url: /categories/reading-insights/
   - title: "elevated.perspectives"
     url: /categories/elevated-perspectives/
 
