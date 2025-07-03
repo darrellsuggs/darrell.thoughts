@@ -1,12 +1,14 @@
 main:
-  - title: "Home"
+  - title: "home"
     url: /
   - title: "thinking-with-experience"
     url: /about/
   - title: "nerd-brain"
     url: /categories/nerd-brain/
   - title: "thinking-with-ai"
-    url: /categories/thinking-with-ai
+    url: /categories/thinking-with-ai/
   - title: "dad-life"
-    url: /categories/dad-life
+    url: /categories/dad-life/
+  - title: "life-happens"
+    url: /categories/life-happens/
 
