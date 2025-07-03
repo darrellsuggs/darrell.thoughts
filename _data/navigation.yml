@@ -1,14 +1,14 @@
 main:
-  - title: "home"
+  - title: "darrell-thoughts"
     url: /
-  - title: "thinking-with-experience"
+  - title: "thinking.with.experience"
     url: /about/
-  - title: "nerd-brain"
-    url: /categories/nerd-brain/
-  - title: "thinking-with-ai"
-    url: /categories/thinking-with-ai/
-  - title: "dad-life"
-    url: /categories/dad-life/
   - title: "life-happens"
     url: /categories/life-happens/
+  - title: "nerd-brain"
+    url: /categories/nerd-brain/
+  - title: "working-with-ai"
+    url: /categories/working-with-ai/
+  - title: "dad-forever"
+    url: /categories/dad-forever/
 
