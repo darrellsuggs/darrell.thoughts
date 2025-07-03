@@ -1,6 +1,4 @@
 main:
-  - title: "recent.reflections"
-    url: /
   - title: "intentional.thinking"
     url: /about/
   - title: "life.happens"
@@ -21,4 +19,5 @@ main:
     url: /categories/reading-insights/
   - title: "elevated.perspectives"
     url: /categories/elevated-perspectives/
-
+  - title: "recent.reflections"
+    url: /
