@@ -1,23 +1,21 @@
 main:
   - title: "intentional.thinking"
     url: /about/
-  - title: "life.happens"
+  - title: "life.unfolds"
     url: /categories/life-happens/
   - title: "nerd.brain"
     url: /categories/nerd-brain/
-  - title: "dad.forever"
+  - title: "dad.mode"
     url: /categories/dad-forever/
-  - title: "married.observations"
+  - title: "married.moments"
     url: /categories/marriend-observations/
   - title: "embracing.ai"
     url: /categories/embracing-ai/
   - title: "career.chaos"
     url: /categories/career-chaos/
-  - title: "written.thoughts"
+  - title: "writing.therapy"
     url: /categories/written-thoughts/
   - title: "reading.insights"
     url: /categories/reading-insights/
   - title: "elevated.perspectives"
     url: /categories/elevated-perspectives/
-  - title: "recent.reflections"
-    url: /
