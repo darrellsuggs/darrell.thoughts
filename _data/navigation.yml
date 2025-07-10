@@ -1,27 +1,19 @@
 main:
-  - title: "intentional.thinking"
-    url: /about/
-  - title: "life.unfolds"
-    url: /categories/life-happens/
-  - title: "nerd.brain"
-    url: /categories/nerd-brain/
-  - title: "dad.mode"
-    url: /categories/dad-forever/
-  - title: "married.moments"
-    url: /categories/marriend-observations/
-  - title: "embracing.ai"
-    url: /categories/embracing-ai/
-  - title: "career.chaos"
-    url: /categories/career-chaos/
-  - title: "writing.therapy"
-    url: /categories/written-thoughts/
-  - title: "reading.insights"
-    url: /categories/reading-insights/
-  - title: "travel.logs"
-    url: /categories/reading-insights/
-  - title: "elevated.perspectives"
-    url: /categories/elevated-perspectives/
-  - title: "other.thinkers"
-    url: /categories/elevated-perspectives/
-  - title: "contribute.support"
-    url: /categories/elevated-perspectives/
+  # Personal reflection
+  - {title: "intentional.thinking",  url: "/about/"}
+  - {title: "writing.therapy",       url: "/categories/writing-therapy/"}
+  - {title: "reading.insights",      url: "/categories/reading-insights/"}
+  - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"}
+  # Life and relationships
+  - {title: "life.unfolds",          url: "/categories/life-happens/"}
+  - {title: "dad.mode",              url: "/categories/dad-mode/"}
+  - {title: "married.moments",       url: "/categories/marriend-moments/"}
+  - {title: "travel.logs",           url: "/categories/travel.logs/"}
+  # Work and technology
+  - {title: "career.chaos",          url: "/categories/career-chaos/"}
+  - {title: "nerd.brain",            url: "/categories/nerd-brain/"}
+  - {title: "embracing.ai",          url: "/categories/embracing-ai/"}
+  # Community and contribution
+  - {title: "other.thinkers",        url: "/categories/other-thinkers/"}
+  - {title: "contribute.support",    url: "/categories/contribute-support/"}
+
