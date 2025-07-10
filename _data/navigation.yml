@@ -1,6 +1,6 @@
 main:
   # Personal reflection
-  - {title: "intentional.thinking",  url: "/categories/intentional-thiking/"}   # i0000
+  - {title: "intentional.thinking",  url: "/categories/intentional-thinking/"}   # i0000
   - {title: "writing.therapy",       url: "/categories/writing-therapy/"}       # w0000
   - {title: "reading.insights",      url: "/categories/reading-insights/"}      # r0000
   - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"} # e0000
