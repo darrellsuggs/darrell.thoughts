@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Writing Therapy"
+title: "writing.therapy"
 taxonomy: category
 category: writing-therapy
 permalink: /categories/writing-therapy/
