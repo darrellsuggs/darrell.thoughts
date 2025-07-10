@@ -3,4 +3,6 @@ layout: category
 title: "Other Thinkers"
 category: other.thinkers
 permalink: /categories/other-thinkers/
+author_profile: true
+type: posts
 ---
