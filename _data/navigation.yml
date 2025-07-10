@@ -1,6 +1,6 @@
 main:
   # Personal reflection
-  - {title: "intentional.thinking",  url: "/about/"}                            # i0000
+  - {title: "intentional.thinking",  url: "/categories/intentional-thiking/"}   # i0000
   - {title: "writing.therapy",       url: "/categories/writing-therapy/"}       # w0000
   - {title: "reading.insights",      url: "/categories/reading-insights/"}      # r0000
   - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"} # e0000
@@ -8,7 +8,7 @@ main:
   - {title: "life.unfolds",          url: "/categories/life-unfolds/"}          # l0000
   - {title: "dad.mode",              url: "/categories/dad-mode/"}              # d0000
   - {title: "married.moments",       url: "/categories/married-moments/"}       # m0000
-  - {title: "travel.logs",           url: "/categories/travel.logs/"}           # t0000
+  - {title: "travel.logs",           url: "/categories/travel-logs/"}           # t0000
   # Work and technology
   - {title: "career.chaos",          url: "/categories/career-chaos/"}          # c0000
   - {title: "nerd.brain",            url: "/categories/nerd-brain/"}            # n0000
