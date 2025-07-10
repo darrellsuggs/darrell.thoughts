@@ -1,19 +1,26 @@
 main:
   # Personal reflection
-  - {title: "intentional.thinking",  url: "/about/"}
-  - {title: "writing.therapy",       url: "/categories/writing-therapy/"}
-  - {title: "reading.insights",      url: "/categories/reading-insights/"}
-  - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"}
+  - {title: "intentional.thinking",  url: "/about/"}                            # i0000
+  - {title: "writing.therapy",       url: "/categories/writing-therapy/"}       # w0000
+  - {title: "reading.insights",      url: "/categories/reading-insights/"}      # r0000
+  - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"} # e0000
   # Life and relationships
-  - {title: "life.unfolds",          url: "/categories/life-happens/"}
-  - {title: "dad.mode",              url: "/categories/dad-mode/"}
-  - {title: "married.moments",       url: "/categories/marriend-moments/"}
-  - {title: "travel.logs",           url: "/categories/travel.logs/"}
+  - {title: "life.unfolds",          url: "/categories/life-unfolds/"}          # l0000
+  - {title: "dad.mode",              url: "/categories/dad-mode/"}              # d0000
+  - {title: "married.moments",       url: "/categories/married-moments/"}       # m0000
+  - {title: "travel.logs",           url: "/categories/travel.logs/"}           # t0000
   # Work and technology
-  - {title: "career.chaos",          url: "/categories/career-chaos/"}
-  - {title: "nerd.brain",            url: "/categories/nerd-brain/"}
-  - {title: "embracing.ai",          url: "/categories/embracing-ai/"}
+  - {title: "career.chaos",          url: "/categories/career-chaos/"}          # c0000
+  - {title: "nerd.brain",            url: "/categories/nerd-brain/"}            # n0000
+  - {title: "embracing.ai",          url: "/categories/embracing-ai/"}          # a0000
   # Community and contribution
-  - {title: "other.thinkers",        url: "/categories/other-thinkers/"}
-  - {title: "contribute.support",    url: "/categories/contribute-support/"}
+  - {title: "other.thinkers",        url: "/categories/other-thinkers/"}        # o0000
+  - {title: "contribute.support",    url: "/categories/contribute-support/"}    # s0000
+  # Books
+  #- {title: "six.fathers",           url: "/categories/six-fathers/"}          # b1000
+  #- {title: "lorcana.dads",          url: "/categories/lorcana-dads/"}         # b2000
+  #- {title: "magic.masters",         url: "/categories/magic-masters/"}        # b3000
+  #- {title: "biltmore.over",         url: "/categories/biltmore-overs/"}       # b4000
+  #- {title: "all.strategies",        url: "/categories/all-strategies/"}       # b5000
+  #- {title: "every.journey",         url: "/categories/every-journey/"}        # b6000
 
