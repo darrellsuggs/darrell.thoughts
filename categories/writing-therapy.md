@@ -1,11 +1,6 @@
 ---
 layout: category
 title: "Writing Therapy"
-taxonomy: category
-category: writing-therapy
+category: writing-therapy  # must match exactly what your posts use
 permalink: /categories/writing-therapy/
-author_profile: true
-type: posts
-entries_layout: grid
-classes: wide
 ---
