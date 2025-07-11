@@ -1,8 +1,8 @@
 ---
 layout: category
-title: "Biltmore Overs"
-category: biltmore.overs
-permalink: /categories/biltmore-overs/
+title: "Biltmore Over"
+category: biltmore-over
+permalink: /categories/biltmore-over/
 author_profile: true
 type: posts
 taxonomy: category
