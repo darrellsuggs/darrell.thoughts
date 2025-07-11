@@ -1,8 +1,7 @@
 ---
 title: "head.to.hand"
 date: 2025-07-10
-categories: 
-  - writing-therapy
+categories: writing-therapy
 group: Personal Reflection
 ---
 

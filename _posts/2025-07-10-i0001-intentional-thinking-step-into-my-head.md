@@ -1,8 +1,7 @@
 ---
 title: "step.inside.my.head"
 date: 2025-07-09
-categories: 
-  - intentional-thinking
+categories: intentional-thinking
 group: Personal Reflection
 ---
 
