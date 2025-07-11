@@ -10,6 +10,7 @@
 
     <ul class="post-list">
       {% assign cat = page.category | default: page.categories | first %}
+      <p>Debug: current category = '{{ cat }}'</p>
       {% for post in site.categories[cat] %}
         <li>
           <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
