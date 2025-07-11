@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Welcome to darrell.thoughts"
-categories: 
-  - intentional.thinking
+category: intentional-thinking
 group: Personal Reflection
 date: 2025-07-10
 ---
