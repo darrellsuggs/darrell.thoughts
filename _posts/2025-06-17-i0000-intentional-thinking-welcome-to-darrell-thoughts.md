@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Welcome to darrell.thoughts"
 categories: intentional-thinking
 group: Personal Reflection
