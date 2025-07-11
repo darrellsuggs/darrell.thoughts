@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Intentional Thinking"
-permalink: /categories/intentional-thinking/
+permalink: /intentional-thinking/
 category: intentional-thinking
 ---
 
