@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: archive
 title: "Intentional Thinking"
 category: intentional-thinking
 permalink: /categories/intentional-thinking/
