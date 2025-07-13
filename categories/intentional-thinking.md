@@ -1,11 +1,9 @@
 ---
-layout: category
-title: "Intentional Thinking"
+layout: category-archive
+title: "intentional.thinking"
 category: intentional-thinking
 permalink: /categories/intentional-thinking/
 author_profile: true
-type: posts
-taxonomy: category
-entries_layout: grid
+entries_layout: list
 classes: wide
 ---
