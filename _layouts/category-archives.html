@@ -3,11 +3,10 @@ layout: archive
 ---
 
 {% assign cat = page.category %}
-{% assign posts = site.categories[cat] %}
+{% assign entries = site.categories[cat] %}
 
-{% if posts %}
-  {% include archive-single.html %}
+{% if entries %}
+  {% include entries.html %}
 {% else %}
   <p>No posts found for category: {{ cat }}</p>
 {% endif %}
-
