@@ -1,25 +1,23 @@
 ---
-layout: default
+layout: single
 ---
 
 {% assign cat = page.category %}
-{% assign posts = site.categories[cat] | sort: 'date' | reverse %}
-
-<h1>{{ page.title }}</h1>
+{% assign posts = site.categories[cat] %}
 
 {% if posts %}
-  <ul class="post-list">
+  <div class="entries-{{ page.entries_layout | default: 'list' }}">
     {% for post in posts %}
-      <li>
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
-        {% if post.excerpt %}
-          <p>{{ post.excerpt }}</p>
-        {% endif %}
-      </li>
+      <article class="h-entry">
+        <h2 class="archive__item-title no_toc">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p class="page__meta">{{ post.date | date: "%Y-%m-%d" }}</p>
+        <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+      </article>
     {% endfor %}
-  </ul>
+  </div>
 {% else %}
-  <p>No posts found in category: {{ cat }}</p>
+  <p>No posts found for category: {{ cat }}</p>
 {% endif %}
 
