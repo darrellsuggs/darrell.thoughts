@@ -1,9 +1,6 @@
 main:
   # Personal reflection
   - {title: "intentional.thinking",  url: "/categories/intentional-thinking/"}   # i0000
-  - {title: "writing.therapy",       url: "/categories/writing-therapy/"}       # w0000
-  - {title: "reading.insights",      url: "/categories/reading-insights/"}      # r0000
-  - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"} # e0000
   # Life and relationships
   - {title: "life.unfolds",          url: "/categories/life-unfolds/"}          # l0000
   - {title: "dad.mode",              url: "/categories/dad-mode/"}              # d0000
@@ -13,6 +10,10 @@ main:
   - {title: "career.chaos",          url: "/categories/career-chaos/"}          # c0000
   - {title: "nerd.brain",            url: "/categories/nerd-brain/"}            # n0000
   - {title: "embracing.ai",          url: "/categories/embracing-ai/"}          # a0000
+  # Intellectual reflections
+  - {title: "writing.therapy",       url: "/categories/writing-therapy/"}       # w0000
+  - {title: "reading.insights",      url: "/categories/reading-insights/"}      # r0000
+  - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"} # e0000
   # Community and contribution
   - {title: "other.thinkers",        url: "/categories/other-thinkers/"}        # o0000
   - {title: "contribute.support",    url: "/categories/contribute-support/"}    # s0000
