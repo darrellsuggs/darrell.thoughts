@@ -1,11 +1,9 @@
 ---
-layout: category
-title: "Dad Mode"
+layout: category-archives
+title: "dad.mode"
 category: dad-mode
 permalink: /categories/dad-mode/
 author_profile: true
-type: posts
-taxonomy: category
-entries_layout: grid
-classes: wide
+entries_layout: list
+classes:
 ---
