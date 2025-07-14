@@ -1,11 +1,9 @@
 ---
-layout: category
-title: "Embracing AI"
+layout: category-archives
+title: "embracing.ai"
 category: embracing-ai
 permalink: /categories/embracing-ai/
 author_profile: true
-type: posts
-taxonomy: category
-entries_layout: grid
-classes: wide
+entries_layout: list
+classes:
 ---
