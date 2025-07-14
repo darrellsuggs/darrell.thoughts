@@ -11,6 +11,7 @@ main:
   - {title: "nerd.brain",            url: "/categories/nerd-brain/"}            # n0000
   - {title: "embracing.ai",          url: "/categories/embracing-ai/"}          # a0000
   # Intellectual reflections
+  - {title: "self.maintenance",      url: "/categories/self-maintenance/"}      # f0000
   - {title: "writing.therapy",       url: "/categories/writing-therapy/"}       # w0000
   - {title: "reading.insights",      url: "/categories/reading-insights/"}      # r0000
   - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"} # e0000
