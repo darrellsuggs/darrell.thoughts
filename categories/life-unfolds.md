@@ -1,11 +1,9 @@
 ---
-layout: category
-title: "Life Unfolds"
+layout: category-archives
+title: "life.unfolds"
 category: life-unfolds
 permalink: /categories/life-unfolds/
 author_profile: true
-type: posts
-taxonomy: category
-entries_layout: grid
-classes: wide
+entries_layout: list
+classes:
 ---
