@@ -1,11 +1,9 @@
 ---
-layout: category
-title: "Travel Logs"
+layout: category-archives
+title: "travel.logs"
 category: travel-logs
 permalink: /categories/travel-logs/
 author_profile: true
-type: posts
-taxonomy: category
-entries_layout: grid
-classes: wide
+entries_layout: list
+classes:
 ---
