@@ -19,7 +19,7 @@ minimal_mistakes_skin: default
 author:
   name: "darrell"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "thinker. engineer. nerd. dad. husband. writer."
+  bio: "thinker. dad. engineer. husband. nerd. writer."
 
 defaults:
   - scope:
