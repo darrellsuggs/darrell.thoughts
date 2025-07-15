@@ -1,6 +1,6 @@
 title: darrell.thoughts
 description: A public journal of ideas, logs, and explorations
-name: Darrell Suggs
+name: darrell
 email: your-email@example.com
 url: "https://darrellsuggs.github.io"
 baseurl: "/darrell.thoughts"
@@ -17,9 +17,9 @@ highlighter: rouge
 minimal_mistakes_skin: default
 
 author:
-  name: "Darrell Suggs"
+  name: "darrell"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Engineer, reader, thinker."
+  bio: "thinker. engineer. nerd. dad. husband. writer."
 
 defaults:
   - scope:
