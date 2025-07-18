@@ -6,5 +6,5 @@ permalink: /categories/dad-mode/
 author_profile: true
 entries_layout: list
 classes:
-description: "Of all my roles and responsibilities in life, being dad is the most challenging, most rewarding, and most complicated, and occasionally most frustrating.  I can not imagine being more poorly equipped for this job.  But here I am, dad.mode."
+description: "Of all my roles and responsibilities in life, being dad is the most challenging, most rewarding, most complicated, and occasionally most frustrating.  I can not imagine being more poorly equipped for this job.  But here I am, dad.mode."
 ---
