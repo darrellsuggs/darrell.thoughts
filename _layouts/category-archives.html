@@ -5,6 +5,10 @@ layout: single
 {% assign cat = page.category %}
 {% assign posts = site.categories[cat] %}
 
+{% if page.description %}
+  <p class="category-description">{{ page.description }}</p>
+{% endif %}
+
 {% if posts %}
   <div class="entries-{{ page.entries_layout | default: 'list' }}">
     {% for post in posts %}
