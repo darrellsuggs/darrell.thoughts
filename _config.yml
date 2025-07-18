@@ -33,12 +33,6 @@ defaults:
       comments: false
       share: true
       related: true
-  - scope:
-      path: ""
-      type: pages
-    values:
-      sidebar:
-        author_profile: true
 
 nav:
   - title: "thinking-with-experience"
