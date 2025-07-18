@@ -28,6 +28,7 @@ defaults:
     values:
       layout: single
       sidebar:
+	nav: "main"
         author_profile: true
       read_time: true
       comments: false
