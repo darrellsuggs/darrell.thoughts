@@ -17,7 +17,7 @@ highlighter: rouge
 minimal_mistakes_skin: default
 
 author:
-  name: "darrell"
+  #name: "darrell"
   avatar: "/assets/images/darrell-thoughts.png"
   bio: "thinker. dad. engineer. husband. nerd. writer. aged."
 
