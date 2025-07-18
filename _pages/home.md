@@ -1,8 +1,11 @@
 ---
-layout: home
-title: ""
+layout: single
 permalink: /
+title: ""
 author_profile: true
 sidebar:
-  author_profile: true
+  nav: "main"
 ---
+
+{% include home.html %}
+
