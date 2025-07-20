@@ -26,12 +26,12 @@ Why is this true?  What causes this accelerated aging factor?  Can I reverse it?
 First, being dad doesn't just mean fathering a child.
 To me, being dad means being there -- every day, every event, every problem, every need.
 The dad is the rock that everyone can rest on when needed and hold onto in a storm.
-That's what dad means to me.
+That's what being a dad means to me.
 
 But that also means that the dad experiences every year for every child.
 And every child is different.  In my case *radically* different.
 So whatever technique, or skill, or solution I develop for one has *no* bearing on the others.
-Even the same challenges require different solutions for differnt kids.
+Even the same challenges require different solutions for different kids.
 
 Additionally, every phase is new.  What your four year-old needs is not the same as your fourteen year old.
 And what your thirty-something needs is radically different than what she needed as a teenager.
@@ -47,9 +47,9 @@ Yet, in the face of all these challenges, your desires as a dad remain the same.
 You want to protect them, help them grow, support them, catch them when they stumble, and love them.
 Just be that rock, no matter what the circumstances.
 
-Finally, alas, the role of dad does *not* come with a handbook.  Someone should really fix that.
+Finally, alas, the role of dad does *not* come with a handbook -- you just have to figure it out as you go.  Someone should really fix that.
 
-Until then, I'll just keep racking up the dad years -- I'm shooting for at least 200.
+Until then, I'll just keep racking up the dad years -- I'm at 131 now, but shooting for at least 200.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0001-01.jpg" width="150"> </p>
 
