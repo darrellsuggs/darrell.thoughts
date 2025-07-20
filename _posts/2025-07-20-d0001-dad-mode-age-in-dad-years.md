@@ -1,6 +1,6 @@
 ---
 title: "age.in.dad.years"
-date: 2025-07-10
+date: 2025-07-20
 categories: dad-mode
 group: Life and Relationships
 ---
