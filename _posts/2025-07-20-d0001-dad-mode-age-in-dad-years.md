@@ -7,15 +7,16 @@ group: Life and Relationships
 
 I am 131 in dad years -- and I feel it.
 
-What are dad years?  My theory is that dad's do not age at the normal rate of everyone else.  
+What are dad years?  My theory is that dads do not age at the normal rate of everyone else.  
 This measure is calculated not only by your age, but also by the number of years you have been a dad.
 And not just "I've had kids for 30 years" -- it matters how many kids and the years are counted serially, not in parallel (yeah, nerd.brain).
 
-For example, here is the dad years math for me:
+For example, here is the math for my age in dad years:
 - 58: my current age 
 - 32: age of the oldest 
 - 28: age of the middle child 
 - 13: age of the youngest
+
 So my total age is 58 + 32 + 28 + 13 = 131 dad years.
 
 131 dad years -- and I feel everyone of them some days.
