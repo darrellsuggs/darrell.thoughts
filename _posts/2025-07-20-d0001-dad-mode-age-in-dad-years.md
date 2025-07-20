@@ -26,7 +26,7 @@ Why is this true?  What causes this accelerated aging factor?  Can I reverse it?
 First, being dad doesn't just mean fathering a child.
 To me, being dad means being there -- every day, every event, every problem, every need.
 The dad is the rock that everyone can rest on when needed and hold onto in a storm.
-That's what being a dad means to me.
+Being a dad is a life long commitment. Just always be there no matter the circumstances.
 
 But that also means that the dad experiences every year for every child.
 And every child is different.  In my case *radically* different.
