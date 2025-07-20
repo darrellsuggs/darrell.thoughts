@@ -17,7 +17,7 @@ main:
   - {title: "elevated.perspectives", url: "/categories/elevated-perspectives/"} # e0000
   # Community and contribution
   #- {title: "other.thinkers",        url: "/categories/other-thinkers/"}        # o0000
-  - {title: "contribute.support",    url: "/categories/contribute-support/"}    # s0000
+  - {title: "support.thinking",       url: "/categories/support-thinking/"}     # s0000
   # Books
   #- {title: "six.fathers",           url: "/categories/six-fathers/"}          # b1000
   #- {title: "lorcana.dads",          url: "/categories/lorcana-dads/"}         # b2000
