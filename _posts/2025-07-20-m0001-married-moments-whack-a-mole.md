@@ -5,7 +5,9 @@ categories: married-moments
 group: Life and Relationships
 ---
 
-My wife and I view daily life as a never ending game of whack-a-mole.
+Daily life as a never ending game of whack-a-mole.
+
+My wife and I discuss this frequently.  
 
 Describe the fair game.
 ...
