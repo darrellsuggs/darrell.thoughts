@@ -19,7 +19,7 @@ For example, here is the math for my age in dad years:
 
 So my total age is 58 + 32 + 28 + 13 = 131 dad years.
 
-131 dad years -- and I feel everyone of them some days.
+Yes, 131 -- and some days I feel everyone of them.
 
 Why is this true?  What causes this accelerated aging factor?  Can I reverse it?
 
