@@ -5,16 +5,20 @@ categories: dad-mode
 group: Life and Relationships
 ---
 
-- picture of dried up face
+I am 131 in dad years -- and I feel it.
+
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0001-01.jpg" width="150"> </p>
 
-- age.in.dad.years
-- age + serial years as a dad
-- parallel years (32 years)
-- serial years (32+28+13) 73
-- total 73+58 = 131 in dad years
+What are dad years?  This is calculated not only by your age, but also by the number of years you have been a dad.
+And not just "I've had kids for 30 years" -- it matters how many kids and the years are counted serially, not in parallel (yeah, nerd.brain).
 
-<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0001-02.jpg" width="150"> </p>
+Here is the math for me:
+- my current age (58)
+- age of the oldest (32)
+- age of the middle child (28)
+- age of the youngest (13)
+
+So my total age is 58 + 32 + 28 + 13 = 131 dad years
 
 - why?  every kid is different.  every phase is new.
 - problems get harder.  decisions are more impactful.
