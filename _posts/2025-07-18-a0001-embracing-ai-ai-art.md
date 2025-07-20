@@ -5,7 +5,9 @@ categories: embracing-ai
 group: Personal Reflection
 ---
 
-I am not an artist. Not even close. Even my stick figures are pretty bad. I guess that part of my brain just doesn’t work right.
+I am not an artist. 
+
+Not even close. There is a reason my avatar tagline does not say "artist". Even my stick figures are pretty bad. I guess that part of my brain just doesn’t work right.
 
 Back in 1999, my wife made a simple little piece of artwork for the front of a homemade notebook I carried around at work (for years). The image was a guy who looked like his hair was on fire—kind of how I felt during much of my professional life. I recently came across that old notebook in a box while decluttering. Here’s the image. I think of it as a younger version of myself.
 
