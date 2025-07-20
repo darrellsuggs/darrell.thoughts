@@ -5,7 +5,7 @@ categories: married-moments
 group: Life and Relationships
 ---
 
-Daily life as a never ending game of whack-a-mole.
+Life is a never ending game of whack-a-mole.
 
 My wife and I discuss this frequently.  
 
