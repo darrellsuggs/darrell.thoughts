@@ -21,7 +21,7 @@ So my total age is 58 + 32 + 28 + 13 = 131 dad years.
 
 Yes, 131 -- and some days I feel everyone of them.
 
-Why is this true?  What causes this accelerated aging factor?  Can I reverse it?
+Why is this true?  What causes this accelerated aging factor?  Can I stop it?
 
 First, being dad doesn't just mean fathering a child.
 To me, being dad means being there -- every day, every event, every problem, every need.
