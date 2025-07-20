@@ -47,7 +47,7 @@ Yet, in the face of all these challenges, your desires as a dad remain the same.
 You want to protect them, help them grow, support them, catch them when they stumble, and love them.
 Just be that rock, no matter what the circumstances.
 
-Finally, alas, the role of dad does *not* come with a handbook -- you just have to figure it out as you go.  Someone should really fix that.
+Perhaps most challenging is that the role of dad does *not* come with a handbook -- you just have to figure it out as you go.  Someone should really fix that.
 
 Until then, I'll just keep racking up the dad years -- I'm at 131 now, but shooting for at least 200.
 
