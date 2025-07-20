@@ -5,7 +5,7 @@ categories: dad-mode
 group: Life and Relationships
 ---
 
-I am 131 in dad years -- and I feel it.
+I am 131 in dad years.
 
 What are dad years?  My theory is that dads do not age at the normal rate of everyone else.  
 This measure is calculated not only by your age, but also by the number of years you have been a dad.
