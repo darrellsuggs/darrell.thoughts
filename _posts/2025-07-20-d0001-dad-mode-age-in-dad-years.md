@@ -25,10 +25,10 @@ Why is this true?  What causes this accelerated aging factor?  Can I stop it?
 
 First, being dad doesn't just mean fathering a child.
 To me, being dad means being there -- every day, every event, every problem, every need.
-The dad is the rock that everyone can rest on when needed and hold onto in a storm.
-Being a dad is a life long commitment. Just always be there no matter the circumstances.
+The dad is the rock that everyone can always come back to, rest on when needed and hold onto in a storm.
+Being a dad is a life long commitment. Just always be there and be steady, no matter the circumstances.
 
-But that also means that the dad experiences every year for every child.
+This means that the dad experiences every year for every child in a unique way.
 And every child is different.  In my case *radically* different.
 So whatever technique, or skill, or solution I develop for one has *no* bearing on the others.
 Even the same challenges require different solutions for different kids.
