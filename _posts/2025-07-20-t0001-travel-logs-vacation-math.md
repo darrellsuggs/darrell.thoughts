@@ -26,7 +26,7 @@ $$
 \text{where } N = \text{number of people}
 $$
 
-In this context complexity can mean several things.  Stress or cost or even just moments of “grumpiness”.
+In this context complexity can mean several things -- stress or cost or even just moments of “grumpiness”.
 
 Let’s look at examples of how this works.  For instance if I travel alone for some reason (occasionally for business) then N = 1.  In this case the formula says
 
