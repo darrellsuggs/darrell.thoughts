@@ -27,8 +27,8 @@ In this context complexity can mean several things.  Stress or cost or even just
 Let’s look at examples of how this works.  For instance if I travel alone for some reason (occasionally for business) then N = 1.  IN this case the formula says
 
 $$
-\text{N} = 1, \text{(e.g. just me)}
-\text{Complexity} = 2^{N - 1}, \quad \text{where } N = 1 \text{e.g. just me}
+\text{N} = 1, \text{(e.g. just me)} \\
+\text{Complexity} = 2^{(1) - 1} = 2^0 = 1 
 $$
 
 
