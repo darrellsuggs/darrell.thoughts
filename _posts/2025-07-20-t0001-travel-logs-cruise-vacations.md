@@ -5,4 +5,4 @@ categories: travel-logs
 group: Life and Relationships
 ---
 
-A cruise vacation can be a terrific option. But it's complicated.
+A cruise vacation can be a terrific option. But there are some important wrinkles.
