@@ -6,6 +6,6 @@ permalink: /categories/nerd-brain/
 author_profile: true
 entries_layout: list
 classes:
-description: "Nerd alert. I apologize up front for the obscure and technical nature of these topics.
-You will either really enjoy them or your eyes will glaze over.  Both responses are fine.  But for the true nerds, welcome to my nerd brain -- let's talk about the technical details."
+description: "Nerd alert: I’ll admit up front—this one dives into some pretty obscure, technical stuff. You’ll either love it or your eyes will glaze over… and honestly, either response is fine.
+But if you’re one of the true nerds, welcome to my brain. Let’s get into the details."
 ---
