@@ -16,7 +16,7 @@ For us, travel has always been an important and valuable experience.  That holds
 
 **Nerd Math**
 
-Over the years I’ve a math formula for the complexity of travel (and of life in general really).  Here it is:
+Over the years I’ve developed a math formula for the complexity of travel (and of life in general really).  Here it is:
 
 $$
 \text{Complexity} = 2^{N - 1}, \quad \text{where } N = \text{number of people}
@@ -27,6 +27,7 @@ In this context complexity can mean several things.  Stress or cost or even just
 Let’s look at examples of how this works.  Start with the simplest case where N=1.  For instance if I travel alone for some reason (occasionally for business) then N=1.  IN this case the formula says
 
 $$
+\text{N} = 1, \text{(e.g. just me)}
 \text{Complexity} = 2^{N - 1}, \quad \text{where } N = 1 \text{e.g. just me}
 $$
 
