@@ -13,6 +13,10 @@ plugins:
   - jekyll-include-cache
 
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+
 highlighter: rouge
 minimal_mistakes_skin: default
 
