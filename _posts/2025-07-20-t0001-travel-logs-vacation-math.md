@@ -3,6 +3,7 @@ title: "vacation.math"
 date: 2025-07-20
 categories: travel-logs
 group: Life and Relationships
+mathjax: true
 ---
 
 Vacation travel is fun, but complicated. (1)
