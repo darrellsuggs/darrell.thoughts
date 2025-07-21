@@ -5,7 +5,7 @@ categories: travel-logs
 group: Life and Relationships
 ---
 
-Vacation travel is fun, but complicated.
+Vacation travel is fun, but complicated. (1)
 
 My wife and I have always valued vacations.  Before kids, we took our first cruise (in a very, very small cabin), spent a week in Cancun (the taxi driver called us the “loco americanos”), visited Reno, Portland, Vail, and Germany.  
 
