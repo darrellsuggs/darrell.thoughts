@@ -6,7 +6,7 @@ group: Life and Relationships
 mathjax: true
 ---
 
-Vacation travel is fun, but complicated. (3)
+Vacation travel is fun, but complicated. (4)
 
 My wife and I have always valued vacations.  Before kids, we took our first cruise (in a very, very small cabin), spent a week in Cancun (the taxi driver called us the “loco americanos”), visited Reno, Portland, Vail, and Germany.  
 
@@ -29,6 +29,7 @@ Let’s look at examples of how this works.  For instance if I travel alone for 
 $$
 \text{N} = 1, \text{ (i.e. just me)} 
 $$
+Some text in here to separate it
 $$
 \text{Complexity} = 2^{(1) - 1} = 2^0 = 1 
 $$
