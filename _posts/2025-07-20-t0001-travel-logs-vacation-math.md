@@ -6,7 +6,7 @@ group: Life and Relationships
 mathjax: true
 ---
 
-Vacation travel is fun, but complicated. (6)
+Vacation travel is fun, but complicated. (7)
 
 My wife and I have always valued vacations.  Before kids, we took our first cruise (in a very, very small cabin), spent a week in Cancun (the taxi driver called us the “loco americanos”), visited Reno, Portland, Vail, and Germany.  
 
@@ -19,7 +19,7 @@ For us, travel has always been an important and valuable experience.  That holds
 Over the years I’ve developed a math formula for the complexity of travel (and of life in general really).  Here it is:
 
 $$
-\text{Complexity} = 2^{N - 1}, \quad \text{where } N = \text{number of people}
+\text{Complexity} = 2^{N - 1},
 $$
 
 $$
@@ -31,11 +31,11 @@ In this context complexity can mean several things.  Stress or cost or even just
 Let’s look at examples of how this works.  For instance if I travel alone for some reason (occasionally for business) then N = 1.  In this case the formula says
 
 $$
-\text{N} = 1, \text{ (i.e. just me)} 
+\text{When N} = 1, \text{ (i.e. just me)} 
 $$
 
 $$
-\text{Complexity} = 2^{(1) - 1} = 2^0 = 1 
+\text{Complexity} = 2^{N - 1} = 2^{(1) - 1} = 2^0 = 1 
 $$
 
 
