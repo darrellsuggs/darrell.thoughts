@@ -8,7 +8,7 @@ mathjax: true
 
 Vacation travel is fun, but the math makes it complicated.
 
-My wife and I have always valued vacations.  Before kids, we took our first cruise (in a very, very small cabin), spent a week in Cancun (the taxi driver called us the “loco americanos”), visited Reno, Portland, Vail, and Germany.  
+My wife and I have always valued vacations.  Before kids, we took our first cruise (in a very, very small cabin), spent a week in Cancun (the taxi driver called us the “loco americanos”), visited Reno, Portland, Vail, NYC, and Germany.  
 
 As parents we have taken the kids all over the planet.  From Disney in Florida to Disney in Los Angeles.  From NYC to San Francisco.  We’ve traveled internationally: Australia, Paris, Mexico, Bahamas and Virgin Islands, and even Canada.  For us travel has always been an important experience.
 
