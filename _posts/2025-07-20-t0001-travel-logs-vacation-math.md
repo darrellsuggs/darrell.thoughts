@@ -130,3 +130,16 @@ Here is the modified version.
 
 </div>
 
+<div style="margin: 0 auto; width: max-content; text-align: left;">
+
+<p><strong>Daily Stress</strong> = \(2^{N-1}\), where <strong>N</strong> is...</p>
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>\(\#\) of people you care about</li>
+  <li>\(\#\) of jobs involved</li>
+  <li>\(\#\) of cars, houses, dogs</li>
+  <li>\(\#\) of other “big things”</li>
+</ul>
+
+</div>
+
