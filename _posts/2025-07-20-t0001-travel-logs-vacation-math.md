@@ -93,7 +93,7 @@ Consider an extreme travel situation - N = 8.
 In our case that's five humans and three dogs.  We do it, but not often.  Here's why.
 
 $$
-\text{N} = 8, \text{ (5 humans + 3 dogs)
+\text{N} = 8, \text{ (5 humans + 3 dogs)}
 $$
 
 $$
@@ -131,10 +131,10 @@ Here is the modified version.
 </div>
 
 In a daily situation, there might be five people, three dogs, four cars, two jobs, meals, school work,
-medical appointments, blah, blah, blah.  The daily complexity can be **huge**:
+medical appointments, blah, blah, blah.  The stress and complexity can be **huge**:
 
 $$
-2^{N - 1} \text{ if N = 10} --> 1,024
+2^{N - 1} \text{ if N = 10} \rightarrow **1,024**
 $$
 
 And some days it feels that way too.
