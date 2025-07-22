@@ -14,7 +14,7 @@ Back in 1999, my wife made a simple little piece of artwork for the front of a h
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/a0001-01.jpg" alt="Me thinking" width="300"> </p>
 When I got a reMarkable tablet in early 2021, I recreated the drawing from memory—with my very non-artistic hand. It’s been the cover of my “Home To Do” notebook ever since.
 
-This guy’s hair still looks on fire, but now he seems a little older, a little calmer, a little less deer-in-the-headlights. I’ve been happy with it.
+This guy’s hair still looks on fire, but now he seems a little older, a little calmer, a little less deer-in-the-headlights. I’ve been happy with it, even though it clearly highlights my lack of artistic ability.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/a0001-02.png" alt="Me thinking" width="300"> </p>
 Working on this blog made me want a new version of my hair-on-fire guy as the author avatar. So I uploaded that second picture into ChatGPT (yep, it accepts images now) and gave it this prompt:
