@@ -23,7 +23,9 @@ Working on this blog made me want a new version of my hair-on-fire guy as the au
 Seconds later—literally about six seconds—the AI artist returned this:
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/a0001-03.png" alt="Me thinking" width="300"> </p>
-Not bad at all. I followed up with:
+Not bad at all. I really like the clean lines and simplicity of the drawing.  It really matches the vibe of the very first artwork from over 20 years ago.  I did however have some hair suggestions.
+
+So, I then followed up with this prompt:
 
 "I like that. can you also give it somewhat of a mullet, but still with the simple style and look of this one?"
 And got this in return:
