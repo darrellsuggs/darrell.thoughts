@@ -102,7 +102,7 @@ $$
 
 That's **64 times** more complicated than traveling as a couple.
 Kind of helps me understand the appeal of an empty nest, lol.
-We don't do this often, usually on during the holidays, and for good reason.
+We don't do this often, usually only during the holidays, and for good reason.
 
 So, what am I saying? <u>Not</u> that I dislike travel as a family - my wife and I both love it and do it as often as we can.
 It <u>does</u> mean that I think about, plan, and execute a family trip differently than a couple-only trip.  Both are great and different in many ways.
@@ -110,25 +110,12 @@ We travel as a family if we can, but this gets harder as the older kids have the
 And we travel just as a couple on the rare occasion when we can pull it off.  I enjoy both, in very different ways.
 
 Why write about this?  Because I can (recall we are on a husband/wife cruise).
-Because it's been in my head for years.  And, importantly, because understanding the math and preparing appropriately for the complexity makes me a better travel mate.
+Because it's been in my head and trying to get out for years.  And, perhaps most importantly, because understanding the math and preparing appropriately for the complexity makes me a better travel mate.
 
 **Life Complexity**
 
 The final reason to write about this is because I realize the math applies to non-vacation life too.
 Here is the modified version.
-
-<div style="margin: 0 auto; width: max-content; text-align: left;">
-
-<p><strong>Daily Stress</strong> = \(2^{N-1}\), where <strong>N</strong> is...</p>
-
-<ul>
-  <li>\(\#\) of people you care about</li>
-  <li>\(\#\) of jobs involved</li>
-  <li>\(\#\) of cars, houses, dogs</li>
-  <li>\(\#\) of other “big things”</li>
-</ul>
-
-</div>
 
 <div style="margin: 0 auto; width: max-content; text-align: left;">
 
@@ -142,4 +129,19 @@ Here is the modified version.
 </ul>
 
 </div>
+
+In a daily situation, there might be five people, three dogs, four cars, two jobs, meals, school work,
+medical appointments, blah, blah, blah.  The daily complexity can be **huge**:
+
+$$
+2^{N - 1} \text{ if N = 10} --> 1,024
+$$
+
+And some days it feels that way too.
+
+That's why we travel when we can.  Even the entire family trips are less complex than
+daily life - since we leave a lot of **N's** at home.
+
+So, keep this in mind.  Plan as much travel as you can, with family when possible
+and with just with your signficant other occasionally too. Trust me, **N = 2** is a great place to spend some time.
 
