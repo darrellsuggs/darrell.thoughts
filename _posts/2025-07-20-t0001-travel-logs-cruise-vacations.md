@@ -6,3 +6,10 @@ group: Life and Relationships
 ---
 
 A cruise vacation can be a terrific option. But there are some important wrinkles.
+
+
+**Pro: Food**
+
+**Con: People**
+
+etc.
