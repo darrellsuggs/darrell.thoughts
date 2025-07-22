@@ -134,7 +134,7 @@ In a daily situation, there might be five people, three dogs, four cars, two job
 medical appointments, blah, blah, blah.  The stress and complexity can be **huge**:
 
 $$
-2^{N - 1} \text{ if N = 10} \rightarrow **1,024**
+2^{N - 1} \text{ if N = 10} \rightarrow \mathbf{1{,}024}
 $$
 
 And some days it feels that way too.
