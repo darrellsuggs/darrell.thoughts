@@ -60,6 +60,7 @@ It usually requires our oldest, bless her soul, to bend her life in half to enab
 That was the case this trip too - and we are so very grateful to her.  Thank you to our oldest baby girl.
 
 **N > 2**
+
 Back to the math of travel.  Here are several more data points.
 Consider a simple trip with me, my wife, and our teenager -- N = 3.
 
@@ -67,3 +68,61 @@ $$
 \text{Complexity} = 2^{N - 1} = 2^{(3) - 1} = 2^2 = 4 
 $$
 
+So this is twice as complex as just me and my wife, and four time as complex as single travel.
+And this is not a reflection on the added person.
+The math is the same regardless of the actual people traveling.
+Why? Easy really.  With three people, at any given moment, someone is probably hungry, 
+someone needs to use the restroom, someone is tired and a little irritable.
+Additionally, there is more luggage, more stuff, more trash, etc.  It's just more complex.
+
+Now, let's look at the five family members data point - N = 5.
+
+$$
+\text{Complexity} = 2^{N - 1} = 2^{(5) - 1} = 2^4 = 16 
+$$
+
+Traveling as a family of five can be 16 times more complicated than traveling alone,
+and 8 times more than going as a couple.  For instance, since there are only two of us on this cruise,
+I have time to sit in the shade near the pool and pen this writing while my better half enjoys the sun.
+This has been rolling around in my head for years while I've wanted to write it down, but life (even on 
+vacation as a family) makes it hard to fine the time.
+
+**Bring Them All**
+
+Consider an extreme travel situation - N = 8.
+In our case that's five humans and three dogs.  We do it, but not often.  Here's why.
+
+$$
+\text{N} = 8, \text{ (5 humans + 3 dogs)
+$$
+
+$$
+\text{Complexity} = 2^{N - 1} = 2^{(8) - 1} = 2^7 = 128
+$$
+
+That's **64 times** more complicated than traveling as a couple.
+Kind of helps me understand the appeal of an empty nest, lol.
+We don't do this often, usually on during the holidays, and for good reason.
+
+So, what am I saying? <u>Not</u> that I dislike travel as a family - my wife and I both love it and do it as often as we can.
+It <u>does</u> mean that I think about, plan, and execute a family trip differently than a couple-only trip.  Both are great and different in many ways.
+We travel as a family as often as possible.  This gets harder as the older kids have their own lives and schedules.
+And we travel just as a couple on the rare occasion when we can pull it off.  I enjoy both, in very different ways.
+
+Why write about this?  Because I can (recall we are on a husband/wife cruise).
+Because it's been in my head for years.  And, importantly, because understanding the math and preparing appropriately for the complexity makes me a better ttravel mate.
+
+**Life Complexity**
+The final reason to write about this is because I realize the math applies to non-vacation life too.
+Here is the modified version.
+
+
+$$\text{Daily Stress} = 2^{N - 1}, \text{ where N is ...} $$
+
+$$\text{# of people you care about}$$
+
+$$\text{# of jobs involved}$$
+
+$$\text{# of cars, houses, dogs}$$
+
+$$\text{# of other "big things"}$$
