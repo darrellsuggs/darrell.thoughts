@@ -6,7 +6,7 @@ group: Life and Relationships
 mathjax: true
 ---
 
-Vacation travel is fun, but complicated. (8)
+Vacation travel is fun, but the math makes it complicated.
 
 My wife and I have always valued vacations.  Before kids, we took our first cruise (in a very, very small cabin), spent a week in Cancun (the taxi driver called us the “loco americanos”), visited Reno, Portland, Vail, and Germany.  
 
@@ -28,7 +28,7 @@ $$
 
 In this context complexity can mean several things -- stress or cost or even just moments of “grumpiness”.
 
-Let’s look at examples of how this works.  For instance if I travel alone for some reason (occasionally for business) then N = 1.  In this case the formula says
+Let’s look at examples of how this works.  For instance if I travel alone for some reason (occasionally for business) then **N = 1**.  In this case the formula says
 
 $$
 \text{N} = 1, \text{ (i.e. just me)} 
@@ -45,9 +45,9 @@ But the complexity is low.
 
 **N = 2**
 
-Now, consider a trip like we are on as I write this.  My wife and I on a cruise.  
+Consider a trip like the one we are on as I write this.  My wife and I on a cruise.  
 No kids, no dogs, no computers -- you get the idea.
-In this case, N = 2, so the formula is 
+In this case, **N = 2**, so the formula is 
 
 $$
 \text{Complexity} = 2^{N - 1} = 2^{(2) - 1} = 2^1 = 2 
@@ -62,7 +62,7 @@ That was the case this trip too - and we are so very grateful to her.  Thank you
 **N > 2**
 
 Back to the math of travel.  Here are several more data points.
-Consider a simple trip with me, my wife, and our teenager -- N = 3.
+Consider a simple trip with me, my wife, and our teenager: **N = 3**.
 
 $$
 \text{Complexity} = 2^{N - 1} = 2^{(3) - 1} = 2^2 = 4 
@@ -75,7 +75,7 @@ Why? Easy really.  With three people, at any given moment, someone is probably h
 someone needs to use the restroom, someone is tired and a little irritable.
 Additionally, there is more luggage, more stuff, more trash, etc.  It's just more complex.
 
-Now, let's look at the five family members data point - N = 5.
+Now, let's look at the five family members data point: **N = 5**.
 
 $$
 \text{Complexity} = 2^{N - 1} = 2^{(5) - 1} = 2^4 = 16 
@@ -89,7 +89,7 @@ vacation as a family) makes it hard to find the time.
 
 **Bring Them All**
 
-Consider an extreme travel situation - N = 8.
+Consider an extreme travel situation: **N = 8**.
 In our case that's five humans and three dogs.  We do it, but not often.  Here's why.
 
 $$
