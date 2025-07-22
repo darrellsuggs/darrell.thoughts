@@ -53,11 +53,17 @@ $$
 \text{Complexity} = 2^{N - 1} = 2^{(2) - 1} = 2^1 = 2 
 $$
 
-Two of us traveling is twice the one person complexity.
-Not bad, and a lot more fun than traveling alone for work.
-In this case, just two of us on a cruise, the complexity is in getting to the point where we can travel.
+Two of us traveling is twice the one person complexity.  Not bad, and a lot more fun than traveling alone for work.
+In this case, just two of us on a cruise, the hardest part is in getting to the point where we can travel.
 Dogs, work, houses, teenager, and other demands are hard to get lined up.
 It usually requires our oldest, bless her soul, to bend her life in half to enable this to happen.
 That was the case this trip too - and we are so very grateful to her.  Thank you to our oldest baby girl.
 
-Now, back to the math of travel
+**N > 2**
+Back to the math of travel.  Here are several more data points.
+Consider a simple trip with me, my wife, and our teenager -- N = 3.
+
+$$
+\text{Complexity} = 2^{N - 1} = 2^{(3) - 1} = 2^2 = 4 
+$$
+
