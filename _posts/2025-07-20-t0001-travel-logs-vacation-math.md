@@ -117,14 +117,16 @@ Because it's been in my head for years.  And, importantly, because understanding
 The final reason to write about this is because I realize the math applies to non-vacation life too.
 Here is the modified version.
 
-
 <div style="margin: 0 auto; width: max-content; text-align: left;">
 
-**Daily Stress** = \(2^{N-1}\), where **N** is...
+<p><strong>Daily Stress</strong> = \(2^{N-1}\), where <strong>N</strong> is...</p>
 
-- \(\#\) of people you care about  
-- \(\#\) of jobs involved  
-- \(\#\) of cars, houses, dogs  
-- \(\#\) of other “big things”
+<ul>
+  <li>\(\#\) of people you care about</li>
+  <li>\(\#\) of jobs involved</li>
+  <li>\(\#\) of cars, houses, dogs</li>
+  <li>\(\#\) of other “big things”</li>
+</ul>
 
 </div>
+
