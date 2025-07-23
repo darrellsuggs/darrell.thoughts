@@ -51,6 +51,5 @@ Perhaps most challenging is that the role of dad does *not* come with a handbook
 
 Until then, I'll just keep racking up the dad years -- I'm at 131 now, but shooting for at least 200.
 
-<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0001-01.jpg" width="300"> </p>
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0001-02.png" width="300"> </p>
 

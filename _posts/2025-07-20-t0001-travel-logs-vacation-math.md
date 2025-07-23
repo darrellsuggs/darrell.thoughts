@@ -143,7 +143,7 @@ That's why we travel when we can.  Even the entire family trips are less complex
 daily life - since we leave a lot of **N's** at home.
 
 So, keep this in mind.  Plan as much travel as you can, with family when possible
-and with just with your signficant other occasionally too. Trust me, **N = 2** is a great place to spend some time.
+and with just your significant other occasionally too. Trust me, **N = 2** is a great place to spend some time.
 Because at the end of the day, it's not really the numbers that are important, but rather the weight of what we care about.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/t0001-01.png" width="300"> </p>
