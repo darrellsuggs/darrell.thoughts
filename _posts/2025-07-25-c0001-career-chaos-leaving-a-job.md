@@ -34,7 +34,9 @@ Nimble was not a good fit.  Both me and management could tell.  I was there a ye
 
 **Cohesity: 1 Toxic Year**
 
-Cohesity, another multi-hundred employee startup was next (I guess I'm a slow learner).  For the first time in my professional career I experienced an incredibly toxic environment and an even more toxic management.  I left on my own, but my really poor manager was pushing.  This was a more brutal experience than being booted by NetApp to be honest. The experience really had a toll on me personally and professionally.
+Cohesity, another multi-hundred employee startup was next (I guess I'm a slow learner).  For the first time in my professional career I experienced an incredibly toxic environment and an even more toxic management.  I left on my own, but my really poor manager was pushing.  This was a more brutal experience than being booted by NetApp to be honest. The experience really had a toll on me personally and professionally. Note to self to do more homework when changing jobs.
+
+**Interviews: Brutal**
 
 The ensuing interview cycle was brutal.  I hadn't really interviewed aggressively in over six years.  The landscape had changed.  Drastically. The interview process is incredible (topic for another place).  I was told "no thanks" by three of the biggest tech companies.  Not an easy thing.
 
@@ -52,7 +54,7 @@ Check back in a couple of years ...
 **Lessons**
 
 - Manage your own career or no one else will.  Worse yet, it may manage you. 
-- If you are unhappy in a place you used to be happy, accept the change and move on.
+- If you are unhappy now in a place you where you used to be happy, accept the change and move on. Adult up.
 - The best time to find a new job is when you already have one -- even if you are mostly happy.
 
 
