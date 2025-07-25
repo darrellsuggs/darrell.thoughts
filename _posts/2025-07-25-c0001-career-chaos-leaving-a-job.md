@@ -20,7 +20,7 @@ The IBM tenure was about two years.  For decades I joked that it "was about 1.5 
 
 iSharp.com - a dotcom startup - was my next target.  I had 90,000 stock options and dotcom dollar signs in my eyes.  I was there for about nine months.  Hard at work one Friday afternoon but then the  company shutdown completely on the next Monday morning.  Just one of many, many companies to suffer the dotcom bubble burst. I was out of work, and not by my choice.
 
-**NetApp: 12 Good Years, 3 Not**
+**NetApp: 12 Good Years, 3 Not So Much**
 
 Network Appliance (NetApp) brought me on as one of the last engineers hired for a couple of years.  I felt the wind of the door slamming shut behind me on my backside.  I was there for 15 years.  I should have left at the 12 year mark -- my happiness and value add was no longer there.  But, I over stayed my welcome (because it was the easy path).  I was laid off on their terms.  That stung.
 
@@ -34,7 +34,7 @@ Nimble was not a good fit.  Both me and management could tell.  I was there a ye
 
 **Cohesity: 1 Toxic Year**
 
-Cohesity, another multi-hundred employee startup was next (I guess I'm a slow lerner).  For the first time in my professional career I experienced an incredibly toxic environment and an even more toxic management.  I left on my own, but my really poor manager was pushing.  This was a more brutal experience than being booted by NetApp to be honest. The experience really had a toll on me personally and professionally.
+Cohesity, another multi-hundred employee startup was next (I guess I'm a slow learner).  For the first time in my professional career I experienced an incredibly toxic environment and an even more toxic management.  I left on my own, but my really poor manager was pushing.  This was a more brutal experience than being booted by NetApp to be honest. The experience really had a toll on me personally and professionally.
 
 The ensuing interview cycle was brutal.  I hadn't really interviewed aggressively in over six years.  The landscape had changed.  Drastically. The interview process is incredible (topic for another place).  I was told "no thanks" by three of the biggest tech companies.  Not an easy thing.
 
@@ -49,9 +49,12 @@ However, it was absolutely the right thing to do at the right time.  Making the 
 
 Check back in a couple of years ...
 
-**Lesson**
+**Lessons**
 
-Manage your own career or no one else will.  Worse yet, it may manage you. 
+- Manage your own career or no one else will.  Worse yet, it may manage you. 
+- If you are unhappy in a place you used to be happy, accept the change and move on.
+- The best time to find a new job is when you already have one -- even if you are mostly happy.
+
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/c0001-01.png" width="300"> </p>
 (Artwork by AI)
