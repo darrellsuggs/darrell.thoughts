@@ -10,7 +10,7 @@ It is scary to chose to leave a job.  Not choosing to leave is worse.
 I voluntarily left my job of three years at IBM Cloud recently.
 My choice, my timing, my plan.  The last time it happened that way I was also leaving IBM - 25 years ago.
 
-Long ago, after a six year tenure at Data General Corp (my first corporate empoyer), I left voluntarily and joined IBM. 
+Long ago, after a six year tenure at Data General Corp (my first corporate employer), I left voluntarily and joined IBM. 
 
 **IBM: 2 Learning Years**
 
