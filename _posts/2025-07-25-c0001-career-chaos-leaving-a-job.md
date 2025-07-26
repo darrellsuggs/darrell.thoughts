@@ -7,10 +7,25 @@ group: Personal Reflection
 
 It is scary to chose to leave a job.  Not choosing to leave is worse.
 
+I'm starting a new job (again) - <ctrl><alt><del>.
+
 I voluntarily left my job of three years at IBM Cloud recently.
 My choice, my timing, my plan.  The last time it happened that way I was also leaving IBM - 25 years ago.
 
-Long ago, after a six year tenure at Data General Corp (my first corporate employer), I left voluntarily and joined IBM. 
+**Big Picture**
+In my career 11 companies so far:
+- 1980s: Micro-matix, Valuesoft
+- 1990s: Data General, IBM
+- 2000s: iSharp, NetApp
+- 2010s: Simplivity, HPE
+- 2020s: Nimble, Cohesity, IBM and now Oracle
+
+My longest tenure was 15 years, shortest about 9 months.  That's an average of about 4 years per company.
+
+**Data General: 6 Newbie Years**
+
+DG was my first corporate employer.  I learned a lot about what I did not know.  It was humbling at times.
+After a six year tenure, I left voluntarily and joined IBM. 
 
 **IBM: 2 Learning Years**
 
@@ -51,11 +66,15 @@ However, it was absolutely the right thing to do at the right time.  Making the 
 
 Check back in a couple of years ...
 
-**Lessons**
+**Lessons Learned**
 
 - Manage your own career or no one else will.  Worse yet, it may manage you. 
+- Every 3 to 5 years, take time to look at other opportunities, even if you stay.  Know the landscape.
+- Embrace your employer, but don't marry them.  It is an "at-will" employment -- don't forget that part.
 - If you are unhappy now in a place you where you used to be happy, accept the change and move on. Adult up.
 - The best time to find a new job is when you already have one -- even if you are mostly happy.
+- Always know your value-add, and make sure you are engaging and leveraging it.  Otherwise things will change.
+- Balance life first, then integrate work.  Not the other way around.
 
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/c0001-01.png" width="300"> </p>
