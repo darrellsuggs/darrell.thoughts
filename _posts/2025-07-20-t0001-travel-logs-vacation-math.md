@@ -145,6 +145,6 @@ daily life - since we leave a lot of **N's** at home.
 **Lessons Learned**
 - Travel as often as possible -- life is short, make sure you enjoy it.
 - Travel with the whole clan when possible, but make some N=2 trips happen too.
-- Be a better travel mate by understanding the math and planning accordingly.
+- Be a great travel mate by understanding the math and planning accordingly.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/t0001-01.png" width="300"> </p>
