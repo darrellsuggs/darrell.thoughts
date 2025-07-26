@@ -12,7 +12,7 @@ My wife and I have always valued vacations.  Before kids, we took our first crui
 
 As parents we have taken the kids all over the planet.  From Disney in Florida to Disney in Los Angeles.  From NYC to San Francisco.  We’ve traveled internationally: Australia, Paris, Mexico, Bahamas and Virgin Islands, and even Canada.  For us travel has always been an important experience.
 
-For us, travel has always been an important and valuable experience.  That holds true today -- we still travel as a family of five occasionally.  Not often, but sometimes we can make it happen.  A couple of years ago we snorkeled as a family off the coast of Honduras -- and caught Covid together as an added surprise.
+That holds true today -- we still travel as a family of five occasionally.  Not often, but sometimes we can make it happen.  A couple of years ago we snorkeled as a family off the coast of Honduras -- and caught Covid together as an added surprise.
 
 **Nerd Math**
 
