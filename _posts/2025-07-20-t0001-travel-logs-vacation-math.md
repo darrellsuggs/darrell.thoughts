@@ -106,6 +106,8 @@ That's **64 times** more complicated than traveling as a couple.
 Kind of helps me understand the appeal of an empty nest, lol.
 We don't do this often, usually only during the holidays, and for good reason.
 
+**Math Interpretation**
+
 So, what am I saying? <u>Not</u> that I dislike travel as a family - my wife and I both love it and do it as often as we can.
 It <u>does</u> mean that I think about, plan, and execute a family trip differently than a couple-only trip.  Both are great and different in many ways.
 We travel as a family if we can, but this gets harder as the older kids have their own lives and schedules.
