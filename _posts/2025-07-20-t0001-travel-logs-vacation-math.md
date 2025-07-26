@@ -142,8 +142,9 @@ And some days it feels that way too.
 That's why we travel when we can.  Even the entire family trips are less complex than
 daily life - since we leave a lot of **N's** at home.
 
-So, keep this in mind.  Plan as much travel as you can, with family when possible
-and with just your significant other occasionally too. Trust me, **N = 2** is a great place to spend some time.
-Because at the end of the day, it's not really the numbers that are important, but rather the weight of what we care about.
+**Lessons Learned**
+- Travel as often as possible -- life is short, make sure you enjoy it.
+- Travel with the whole clan when possible, but make some N=2 trips happen tool
+- Be a better travel mate by understanding the math and planning accordinglyl
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/t0001-01.png" width="300"> </p>
