@@ -7,7 +7,9 @@ group: Personal Reflection
 
 It is scary to chose to leave a job.  Not choosing to leave is worse.
 
-I'm starting a new job (again) - `<ctrl><alt><del>`.
+`<ctrl><alt><del>`
+
+I'm starting a new job. Again.
 
 I voluntarily left my job of three years at IBM Cloud recently.
 My choice, my timing, my plan.  The last time it happened that way I was also leaving IBM - 25 years ago.
