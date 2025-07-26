@@ -71,9 +71,9 @@ Check back in a couple of years ...
 - Manage your own career or no one else will.  Worse yet, it may manage you. 
 - Every 3 to 5 years, take time to look at other opportunities, even if you stay.  Know the landscape.
 - Embrace your employer, but don't marry them.  It is an "at-will" employment -- don't forget that part.
-- If you are unhappy now in a place you where you used to be happy, accept the change and move on. Adult up.
-- The best time to find a new job is when you already have one -- even if you are mostly happy.
 - Always know your value-add, and make sure you are engaging and leveraging it.  Otherwise things will change.
+- If you are unhappy now in a place where you used to be happy, accept the change and move on. Adult up.
+- The best time to find a new job is when you already have one -- even if you are mostly happy.
 - Balance life first, then integrate work.  Not the other way around.
 
 
