@@ -13,7 +13,8 @@ I voluntarily left my job of three years at IBM Cloud recently.
 My choice, my timing, my plan.  The last time it happened that way I was also leaving IBM - 25 years ago.
 
 **Big Picture**
-In my career 11 companies so far:
+
+In my career there have been 11 companies so far:
 - 1980s: Micro-matix, Valuesoft
 - 1990s: Data General, IBM
 - 2000s: iSharp, NetApp
