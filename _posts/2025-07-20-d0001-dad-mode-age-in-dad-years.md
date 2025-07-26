@@ -9,9 +9,7 @@ I am 131 in dad years.
 
 **Dad Years**
 
-My theory is that dads do not age at the normal rate of everyone else.  
-This measure is calculated not only by your age, but also by the number of years you have been a dad.
-And not just "I've had kids for 30 years" -- it matters how many kids and the years are counted serially, not in parallel (yeah, nerd.brain).
+My theory is that dads do not age at the normal rate of everyone else.  This measure is calculated not only by your age, but also by the number of years you have been a dad.  And not just "I've had kids for 30 years" -- it matters how many kids and the years are counted serially, not in parallel (yeah, nerd.brain).
 
 **Simple Math**
 
