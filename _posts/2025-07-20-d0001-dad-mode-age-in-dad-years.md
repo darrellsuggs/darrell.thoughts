@@ -53,8 +53,8 @@ Perhaps most challenging is that the role of dad does *not* come with a handbook
 
 **Lessons Learned**
 - No two kids, two problems, or two phases are the same -- just accept that.
-- Accept that what worked before will surely not work now.
-- Tackle every situation with care and an eye toward growth, for both of you.
+- What worked before will almost surely not work now.
+- Tackle every challenge with care and an eye toward growth, for both of you.
 - Listen to the context, the situation, the need.  Then minimize your reaction.
 - Wear the age like a badge of pride - you earned it.
 
