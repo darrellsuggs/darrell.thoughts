@@ -7,7 +7,7 @@ group: Personal Reflection
 
 It is scary to chose to leave a job.  Not choosing to leave is worse.
 
-`<ctrl><alt><del>`
+**`<ctrl><alt><del>`**
 
 I'm starting a new job. Again.
 
@@ -52,7 +52,7 @@ Nimble was not a good fit.  Both me and management could tell.  I was there a ye
 
 **Cohesity: 1 Toxic Year**
 
-Cohesity, another multi-hundred employee startup was next (I guess I'm a slow learner).  For the first time in my professional career I experienced an incredibly toxic environment and an even more toxic management.  I left on my own, but my really poor manager was pushing.  This was a more brutal experience than being booted by NetApp to be honest. The experience really took a toll on me personally and professionally. Note to self to do more homework when changing jobs.
+Cohesity, another multi-hundred employee startup was next (I guess I'm a slow learner).  For the first time in my professional career I experienced an incredibly toxic environment and an even more toxic management.  I left on my own, but my really poor manager was pushing.  This was a more brutal experience than being booted by NetApp to be honest. This really took a toll on me personally and professionally. Note to self to do more homework when changing jobs.
 
 **Interviews: Brutal**
 
