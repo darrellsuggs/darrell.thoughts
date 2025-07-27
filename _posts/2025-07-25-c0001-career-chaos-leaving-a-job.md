@@ -1,5 +1,5 @@
 ---
-title: "leaving.a.job (career.chaos)"
+title: "leaving.a.job"
 date: 2025-07-25
 categories: career-chaos
 group: Personal Reflection
