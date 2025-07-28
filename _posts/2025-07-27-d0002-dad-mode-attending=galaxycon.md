@@ -64,6 +64,8 @@ A couple of years back, my youngest and I paid to have a photo with Chrisotpher 
 - sid kroft (creator of land of the lost -- one of my favorite saturday shows)
 
 The highlight this year was when I also happened upon one of my favorite TV characters -- Data from Star Trek The Next Generation. We spoke for a while.  He was really laid back and funny actually.  I paid for a photo.  I asked AI to render it for me from the original.
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-03.png" width="300"> </p>
+(Artwork by AI)
 
 **Lessons Learned**
 - Occasionally, explore a subculture completely out of your wheel house
@@ -71,5 +73,5 @@ The highlight this year was when I also happened upon one of my favorite TV char
 - Custom artwork is really interesting when the artist is standing in front of you
 - Creativity and passion comes in many forms -- Cosplay is certainly one of those
 
-<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-03.png" width="300"> </p>
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-04.png" width="300"> </p>
 (Artwork by AI)
