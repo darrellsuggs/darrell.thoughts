@@ -41,6 +41,13 @@ Over the time I've been going, I've noticed a shift away from some of the more w
 
 **Costume Contests**
 
+There is an apparently very impressive set of adult costume competitions.  We haven't seen those yet.  But perhaps next year, since the age group is 14 and up.
+
+This year our daughter dressed up in an impressive homemade costume (of some character I still don't know, lol).  Her and two friends entered the 13 and under costume competition.  There were probably 80 entries, and a spectator crowd of 500.  The girls didn't win, but they had their moment on stage to show their cosplay costume and poses.  It was fun.
+
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-02.png" width="300"> </p>
+(Artwork by AI)
+
 **Cosplay Spectacle**
 
 Let me explain cosplay this way.  Recall a time in life when you loved Halloween and creating the perfect costume to show off with your friends and neightbors was almost as exciting as Christmas. Now, become an adult, have a budget with real money, and build your perfect costume of your favorite character.  Now stroll around a building with thousands of other cosplay characters, taking pictures with them and sharing complements about the outfits.  Better yet, bump into someone dressed as you, fanboy and take pictures togther.  Again, I cannot overstate this part -- you just have to see some of these cosplay outfits in person.
@@ -49,27 +56,33 @@ Let me explain cosplay this way.  Recall a time in life when you loved Halloween
 
 I am not a Cosplayer -- didn't even know the word until a couple of years ago.
 
-<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-02.png" width="300"> </p>
-(Artwork by AI)
+About seven years ago, our oldest daughter introduced our youngest daugther to the "comicon" concept.  They went joinly together after than for several years.  Then the older daughter had an adult life and job and found herself out of town several years in a row.  Since our youngest had decided this was a "must-do activity", I volunteered to take her and some friends over.  That was three years ago I think - I have attened all three since then.  I whine and moan about it a little (it's not cheap, we usually use up a Sunday afternoon doing it, crowded, lots of walking, July, ... you get the picture). But, I'll confess that I have begun to enjoy the annual sojourn.
 
-I'll confess that I have begun to enjoy the annual sojourn.
 
 **Star Struck**
 
 A couple of years back, my youngest and I paid to have a photo with Chrisotpher Lloyd (Doc Brown from Back to the Future -- an all=time favorite movie of mine.)  It was expensive and quick, but cool just to be there.
 
-- princess peach
-- lifesize and very realistic r2d2
-- kid / guy from jurassic park
-- sid kroft (creator of land of the lost -- one of my favorite saturday shows)
+This year as I wandered around I came across a couple of interesting people.  First was a woman whose sign said she was the voice actor for Princess Peach (from Nintendo Mario fame -- a genre I still love and play occasionally.)  Her booth had no fans, so I casually walked up and said "You know, I've saved you a BUNCH of times" -- witty I thought, but probably the millionth time she has heard it.  I was then quite surprise when she said back "Thank you for saving me" -- in **Princess Peach's** voice.  That is really how she sounds in her normal speaking.  It was simply surreal.
 
-The highlight this year was when I also happened upon one of my favorite TV characters -- Data from Star Trek The Next Generation. We spoke for a while.  He was really laid back and funny actually.  I paid for a photo.  I asked AI to render it for me from the original.
+I also came across a life size and clearly realistic R2-D2. No way to pass that up.  I asked for a selfie and he obliged -- no charge.  Next time I saw him I finally spotted the guy with the remote controls -- he was a normal looking guy in a crowd of cosplayers.  But the R2-D2 effect was just fun.
+
+There were a couple of celebs that I stalked a little, the young boy from Jurassic Park (again a favorite of mine) and the programmer who was stealing the dinosaur DNA in a shaving cream can.  They had aged considerably -- Jurassic Park was 1993.
+
+**Data**
+
+The last "famous" person I talked to was Sid Kroft, creator of one of my favorite Saturday morning shows "Land of the Lost" (I still recall those scary Sleastak things).  He was creator on several other shows too.  His booth was empty, so I pointed out my childhood favorite and we talked for about 10 minutes about the show.  Interesting and free.  No Sleastaks involved.
+
+I do sometimes feel my age when making the rounds.  There will be a celeb with a hundred people queued up to meet them.  I'll look at the name and photo and think "who the heck is that?"  This elicits and eyeroll from the 13 year old.
+
+The highlight this year was when I also happened upon one of my favorite TV characters -- Data from Star Trek The Next Generation (Brent Spiner). His booth had no line, so I walked up and We spoke for a while.  He was really laid back and funny actually.  I paid for a photo.  I asked AI to render it for me from the original.
+
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-03.png" width="300"> </p>
 (Artwork by AI)
 
 **Lessons Learned**
-- Occasionally, explore a subculture completely out of your wheel house
-- Celebrities are just people too, most of the nice and down to earth
+- Occasionally, explore a subculture completely out of your wheelhouse
+- Celebrities are just people too, most of them nice and down to earth
 - Custom artwork is really interesting when the artist is standing in front of you
 - Creativity and passion comes in many forms -- Cosplay is certainly one of those
 
