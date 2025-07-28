@@ -79,16 +79,17 @@ I do sometimes feel my age when making the rounds.  There will be a celeb with a
 
 **Data**
 
-The highlight this year was when I also happened upon one of my favorite TV characters -- Data from Star Trek The Next Generation (Brent Spiner). His booth had no line, so I walked up and We spoke for a while.  He was really laid back and funny actually.  I paid for a photo.  I asked AI to render it for me from the original.
+The highlight this year was when I also happened upon one of my favorite TV characters -- Data from Star Trek The Next Generation (Brent Spiner). His booth had no line, so I walked up and we spoke for a while.  He was really laid back and funny actually.  I paid for a photo.  I asked AI to render it for me from the original.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-03.png" width="300"> </p>
 (Artwork by AI)
 
 **Lessons Learned**
-- Occasionally, explore a subculture completely out of your wheelhouse
-- Celebrities are just people too, most of them nice and down to earth
-- Custom artwork is really interesting when the artist is standing in front of you
-- Creativity and passion comes in many forms -- Cosplay is certainly one of those
+- Occasionally, explore a subculture completely out of your wheelhouse.
+- Celebrities are just people too, most of them nice and down to earth.
+- Custom artwork is especially interesting when the artist is standing in front of you.
+- Creativity and passion comes in many forms -- Cosplay is certainly one of those.
+- It's possible to be dad, nerd, and writer -- all in one day. I like it.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-04.png" width="300"> </p>
 (Artwork by AI)
