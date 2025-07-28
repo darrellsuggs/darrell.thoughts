@@ -13,14 +13,13 @@ GalaxyCon is the eastern seaboard's version of the infamous San Diego "ComicCon"
 The event is attended by thousands each day, young kids to the elderly.  It brings a large and diverse crowd. You really do have to see it to understand, but I'll explain what I can.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-01.png" width="300"> </p>
-(Artwork by AI)
 
 **What Is It - Really**
 
-After several visits (ok, 3 or 4), I've come to better understand the outlines of the event.  I'll summarize.
-- Celebritie Meet/Greet and Q&A
-- Giant Market (Everything from real swords to custom artwork)
-- Costume Contest (For yound and old)
+After several visits, I've come to better understand the outlines of the event.  I'll summarize.
+- Celebrity Meet/Greet/Photo and Q&A
+- Giant Bazaar (Everything from real swords to custom artwork)
+- Costume Contests (For yound and old)
 - Cosplay Spectacle (You just have to see it to understand)
 
 **Celebrities**
@@ -38,6 +37,7 @@ The convention center floor is turned into a humongous bazaar, cut into rows and
 There is also a large contingent of custom artists.  Graphic novelists, full fledged writers, and artists of all ilk's, from paitinings to incredible pencil stenciling.  After seeing what celebs are there, I usually walk each and every aisle looking at the merchandise (and the people).  I find the artists and writers are very approachable and quick to offer insight into their work.  I'm always fascinated with both the skill and mechanics needed to craft their art.  This year one guy pre-answered one of my most common questions by putting a sticker on each pencil drawing showing "Hours Invested". One drawing had 200 hours - that's five normal work weeks.  Custom artwork is clearly time consuming.
 
 Over the time I've been going, I've noticed a shift away from some of the more well known themes (Star Wars, Harry Potter, etc) toward numerous (unrecognizable to me) variations of Asian and Anime. That said, if you need a full body Storm Trooper outfit, this is your place.
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-05.png" width="300"> </p>
 
 **Costume Contests**
 
@@ -46,7 +46,6 @@ There is an apparently very impressive set of adult costume competitions.  We ha
 This year our daughter dressed up in a self-assembled and homemade costume (of some character I still don't know, lol).  Her and two friends entered the 13 and under costume competition.  There were probably 80 entries, and a spectator crowd of 500.  The girls didn't win, but they had their moment on stage to show their cosplay costume and poses.  It was fun.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-02.png" width="300"> </p>
-(Artwork by AI)
 
 **Cosplay Spectacle**
 
@@ -82,7 +81,6 @@ I do sometimes feel my age when making the rounds.  There will be a celeb with a
 The highlight this year was when I also happened upon one of my favorite TV characters -- Data from Star Trek The Next Generation (Brent Spiner). His booth had no line, so I walked up and we spoke for a while.  He was really laid back and funny actually.  I paid for a photo.  I asked AI to render it for me from the original.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-03.png" width="300"> </p>
-(Artwork by AI)
 
 **Lessons Learned**
 - Occasionally, explore a subculture completely out of your wheelhouse.
@@ -92,4 +90,4 @@ The highlight this year was when I also happened upon one of my favorite TV char
 - It's possible to be dad, nerd, and writer -- all in one day. I like it.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-04.png" width="300"> </p>
-(Artwork by AI)
+(All Artwork by AI)
