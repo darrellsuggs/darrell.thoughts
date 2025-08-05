@@ -62,6 +62,8 @@ About seven years ago, our oldest daughter introduced our youngest daugther to t
 
 A couple of years back, my youngest and I paid to have a photo with Chrisotpher Lloyd (Doc Brown from Back to the Future -- an all-time favorite movie of mine.)  It was expensive and quick, but cool just to be there.
 
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-06.png" width="300"> </p>
+
 This year as I wandered around I came across a couple of interesting people.  
 
 First was a woman whose sign said she was the voice actor for Princess Peach (from Nintendo Mario fame -- a genre I still love and play occasionally.)  Her booth had no fans, so I casually walked up and said "You know, I've saved you a BUNCH of times" -- witty I thought, but probably the millionth time she has heard it.  I was then quite surprised when she said back "Thank you for saving me" -- in **Princess Peach's** voice.  That is really how she sounds in her normal speaking.  It was simply surreal.
@@ -82,7 +84,7 @@ The highlight this year was when I also happened upon one of my favorite TV char
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-03.png" width="300"> </p>
 
-**Lessons Learned**
+**Summary Thoughts**
 - Occasionally, explore a subculture completely out of your wheelhouse.
 - Celebrities are just people too, most of them nice and down to earth.
 - Custom artwork is especially interesting when the artist is standing in front of you.
