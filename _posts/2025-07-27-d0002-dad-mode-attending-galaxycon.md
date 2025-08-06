@@ -76,6 +76,8 @@ There were a couple of celebs that I stalked a little, the young boy from Jurass
 
 The last "famous" person I talked to was Sid Kroft, creator of one of my favorite Saturday morning shows "Land of the Lost" (I still recall those scary Sleastak things).  He was creator on several other shows too.  His booth was empty, so I pointed out my childhood favorite and we talked for about 10 minutes about the show.  Interesting and free.  No Sleastaks involved.
 
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-07.png" width="300"> </p>
+
 I do sometimes feel my age when making the rounds.  There will be a celeb with a hundred people queued up to meet them.  I'll look at the name and photo and think "who the heck is that?"  This elicits and eyeroll from the 13 year old.
 
 **Data**
