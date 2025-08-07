@@ -34,16 +34,17 @@ I usually just cruise the rows, looking for people who I'm familiar with and the
 
 The convention center floor is turned into a humongous bazaar, cut into rows and columns.  The vendors sell a very diverse set of products.  There is a lot of artwork and posters.  Funko pops, trading cards, swords, pins, and a wide arrange of "toys" like Lego people and video game stuff.
 
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-05.png" width="300"> </p>
+
 There is also a large contingent of custom artists.  Graphic novelists, full fledged writers, and artists of all ilk's, from paitinings to incredible pencil stenciling.  After seeing what celebs are there, I usually walk each and every aisle looking at the merchandise (and the people).  I find the artists and writers are very approachable and quick to offer insight into their work.  I'm always fascinated with both the skill and mechanics needed to craft their art.  This year one guy pre-answered one of my most common questions by putting a sticker on each pencil drawing showing "Hours Invested". One drawing had 200 hours - that's five normal work weeks.  Custom artwork is clearly time consuming.
 
 Over the time I've been going, I've noticed a shift away from some of the more well known themes (Star Wars, Harry Potter, etc) toward numerous (unrecognizable to me) variations of Asian and Anime. That said, if you need a full body Storm Trooper outfit, this is your place.
-<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-05.png" width="300"> </p>
 
 **Costume Contests**
 
 There is an apparently very impressive set of adult costume competitions.  We haven't seen those yet.  But perhaps next year, since the age group is 14 and up.
 
-<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-07.png" width="300"> </p>
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-08.png" width="300"> </p>
 
 This year our daughter dressed up in a self-assembled and homemade costume (of some character I still don't know, lol).  Her and two friends entered the 13 and under costume competition.  There were probably 80 entries, and a spectator crowd of 500.  The girls didn't win, but they had their moment on stage to show their cosplay costume and poses.  It was fun.
 
