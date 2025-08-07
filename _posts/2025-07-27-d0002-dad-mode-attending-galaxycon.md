@@ -58,7 +58,7 @@ Let me explain cosplay this way.  Recall a time in life when you loved Halloween
 
 I am not a Cosplayer -- I didn't even know the word until a couple of years ago.
 
-About seven years ago, our oldest daughter introduced our youngest daugther to the "Comicon" concept.  They went jointly together after than for several years.  Then the older daughter had an adult life and job and found herself out of town several years in a row.  Since our youngest had decided this was a "must-do activity", I volunteered to take her and some friends over.  That was three years ago I think - I have attened all three since then.  I whine and moan about it a little (it's not cheap, we usually use up a Sunday afternoon doing it, crowded, lots of walking, July, ... you get the picture). But, I'll confess that I have begun to enjoy the annual sojourn.
+Around seven years ago, our oldest daughter introduced our youngest daugther to the "Comicon" concept.  They went jointly together after that for several years.  Then the older daughter had an adult life and job and found herself out of town several years in a row.  Since our youngest had decided this was a "must-do activity", I volunteered to take her and some friends over.  That was three years ago I think - I have attended all three since then.  I whine and moan about it a little (it's not cheap, we usually use up a Sunday afternoon doing it, crowded, lots of walking, July, ... you get the picture). But, I'll confess that I have begun to enjoy the annual sojourn.
 
 
 **Star Struck**
@@ -72,6 +72,8 @@ This year as I wandered around I came across a couple of interesting people.
 First was a woman whose sign said she was the voice actor for Princess Peach (from Nintendo Mario fame -- a genre I still love and play occasionally.)  Her booth had no fans, so I casually walked up and said "You know, I've saved you a BUNCH of times" -- witty I thought, but probably the millionth time she has heard it.  I was then quite surprised when she said back "Thank you for saving me" -- in **Princess Peach's** voice.  That is really how she sounds in her normal speaking.  It was simply surreal.
 
 I also came across a life size and clearly realistic R2-D2. No way to pass that up.  I asked for a selfie and he obliged -- no charge.  Next time I saw him I finally spotted the guy with the remote controls -- he was a normal looking guy in a crowd of cosplayers.  But the R2-D2 effect was just fun.
+
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-04.png" width="300"> </p>
 
 There were a couple of celebs that I stalked a little, the young boy from Jurassic Park (again a favorite of mine) and the programmer who was stealing the dinosaur DNA in a shaving cream can.  They had aged considerably -- Jurassic Park was 1993.
 
@@ -96,5 +98,4 @@ The highlight this year was when I also happened upon one of my favorite TV char
 - Creativity and passion comes in many forms -- Cosplay is certainly one of those.
 - It's possible to be dad, nerd, and writer -- all in one day. I like it.
 
-<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-04.png" width="300"> </p>
 (All Artwork by AI)
