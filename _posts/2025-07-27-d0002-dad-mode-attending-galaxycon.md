@@ -43,6 +43,8 @@ Over the time I've been going, I've noticed a shift away from some of the more w
 
 There is an apparently very impressive set of adult costume competitions.  We haven't seen those yet.  But perhaps next year, since the age group is 14 and up.
 
+<p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-07.png" width="300"> </p>
+
 This year our daughter dressed up in a self-assembled and homemade costume (of some character I still don't know, lol).  Her and two friends entered the 13 and under costume competition.  There were probably 80 entries, and a spectator crowd of 500.  The girls didn't win, but they had their moment on stage to show their cosplay costume and poses.  It was fun.
 
 <p align="center"> <img src="{{ site.baseurl }}/assets/images/d0002-02.png" width="300"> </p>
